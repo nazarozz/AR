@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Geometria-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geometria-Medium'), url('Geometria-Medium.woff') format('woff');
+    }
+
+
+@font-face {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geometria'), url('Geometria.woff') format('woff');
+    }
+
+@font-face {
+    font-family: 'Geometria-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geometria-Bold'), url('Geometria-Bold.woff') format('woff');
+    }
+
+@font-face {
+    font-family: 'Geometria-Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geometria-Light'), url('Geometria-Light.woff') format('woff');
+    }
